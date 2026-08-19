@@ -1,0 +1,19 @@
+{
+  "name": "Neon Orb Runner 3D",
+  "short_name": "Orb Runner",
+  "description": "একটি আকর্ষণীয় 3D neon runner game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
